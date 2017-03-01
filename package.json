@@ -1,0 +1,27 @@
+{
+  "name": "face-detect-algorithmia",
+  "version": "0.0.1",
+  "description": "Face detection using OpenCV's FaceDetection algorithm hosted on Algorithmia (https://algorithmia.com/algorithms/opencv/FaceDetection)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bennybauer/face-detection-algorithmia.git"
+  },
+  "keywords": [
+    "face",
+    "detection",
+    "algorithmia"
+  ],
+  "author": "bennybauer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bennybauer/face-detection-algorithmia/issues"
+  },
+  "homepage": "https://github.com/bennybauer/face-detection-algorithmia#readme",
+  "dependencies": {
+    "algorithmia": "^0.3.8"
+  }
+}
