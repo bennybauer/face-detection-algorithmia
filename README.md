@@ -8,7 +8,7 @@ Install dependencies
 npm install
 ```
 
-Configure an `ALGORITHMIA_API_KEY` with your Algorithmia [api key](https://algorithmia.com/developers/basics/customizing-api-keys/)
+Configure an `ALGORITHMIA_API_KEY` environment variable with your Algorithmia [api key](https://algorithmia.com/developers/basics/customizing-api-keys/)
 
 ```
 export ALGORITHMIA_API_KEY=XXXX
